@@ -1,0 +1,9 @@
+.head{
+    background-image: url(./images/new.jpeg );
+    background-size: 100% ;
+
+}
+.heading{
+    text-align: center;
+    margin: 40px 50px;
+}
